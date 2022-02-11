@@ -31,8 +31,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |   Done ✅ |  |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  Done ✅ |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
+| [Two Sum](https://leetcode.com/problems/two-sum/) |  Done ✅ |  |
+| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | Done ✅  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
@@ -48,7 +48,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
+| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | Done ✅ |  |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
